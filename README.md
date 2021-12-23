@@ -1,3 +1,7 @@
+### Problem statement below. Project contains Darian's solution to it.
+
+Please find more on FCC website: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
+
 ### Assignment
 
 # Demographic Data Analyzer
